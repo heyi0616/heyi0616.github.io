@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cyber Science and Engineering, Shanghai Jiao Tong Uninversity, 2021-
+* Software Engineer in Baidu Inc., 2020-2021
+* M.S. in Control Engineering, Harbin Institute of Technology, 2018-2020
+* B.S. in Automation, Harbin Institute of Technology, 2014-2018
 
 Work experience
 ======
