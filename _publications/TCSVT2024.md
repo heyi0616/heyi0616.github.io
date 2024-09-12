@@ -6,6 +6,7 @@ excerpt: 'Yi He, Lei Yang, Shilin Wang, Alan Wee-Chung Liew'
 date: 2024-05-27
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10539637'
+slidesurl: 
 citation: 
 ---
 
