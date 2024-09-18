@@ -11,55 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cyber Science and Engineering, Shanghai Jiao Tong Uninversity, 2021-
-* Software Engineer in Baidu Inc., 2020-2021
-* M.S. in Control Engineering, Harbin Institute of Technology, 2018-2020
-* B.S. in Automation, Harbin Institute of Technology, 2014-2018
+* Ph.D in Cyber Science and Engineering, Shanghai Jiao Tong Uninversity, 2021.09-, advised by Prof. [Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122).
+* M.S. in Control Engineering, Harbin Institute of Technology, 2018.09-2020.06, advised by Prof. [Weiyang Lin](https://homepage.hit.edu.cn/linweiyang)
+* B.S. in Automation, Harbin Institute of Technology, 2014.09-2018.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.07-2021.08: Baidu Inc.
+  * Software Engineer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linux
+* Python
+* Pytorch
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Patent
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 中文唇语识别方法及系统
+* 开集场景下防深度伪造的讲话人认证方法及系统
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer: IEEE TCSVT, ICASPP, APSIPA ASC
+* Teaching Assistant:
+  * Introduction to Network Information Security, 2022-2023 Spring
+  * Introduction to Artificial Intelligence, 2023-2024 Fall
