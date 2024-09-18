@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* 2020.07-2021.08: Baidu Inc.
+* Baidu, 2020.07-2021.08
   * Software Engineer
   
 Skills
 ======
-* Linux
-* Python
+* Python, C++
 * Pytorch
+* CET-6
 
 Publications
 ======
