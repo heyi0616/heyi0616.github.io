@@ -39,7 +39,7 @@ Patent
   
 Service
 ======
-* Reviewer: IEEE TCSVT, ICASPP, APSIPA ASC
+* Reviewer: IEEE TCSVT, ICASPP, ICME, IJCNN, APSIPA ASC
 * Teaching Assistant:
   * Introduction to Network Information Security, 2022-2023 Spring
   * Introduction to Artificial Intelligence, 2023-2024 Fall
