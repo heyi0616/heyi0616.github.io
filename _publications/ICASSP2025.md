@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Visual Forced Alignment with Local Context-Aware Feature Extraction and Multi-Task Learning (Under Review)"
+title: "Enhancing Visual Forced Alignment with Local Context-Aware Feature Extraction and Multi-Task Learning"
 collection: publications
 permalink: /publication/VFA
 excerpt: 'Yi He, Lei Yang, Shilin Wang'
