@@ -19,18 +19,16 @@ Work experience
 ======
 * Baidu, 2020.07-2021.08
   * Software Engineer
-  
-Skills
-======
-* Python, C++
-* Pytorch
-* CET-6
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Scholarship
+======
+* 2024年一流网安奖学金
 
 Patent
 ======
@@ -39,7 +37,9 @@ Patent
   
 Service
 ======
-* Reviewer: IEEE TCSVT, ICASPP, ICME, IJCNN, APSIPA ASC
+* Reviewer: IEEE TCSVT, ICASPP, ICME, IJCNN, APSIPA ASC, PRCV
 * Teaching Assistant:
-  * Introduction to Network Information Security, 2022-2023 Spring
-  * Introduction to Artificial Intelligence, 2023-2024 Fall
+  * Introduction to Network Information Security, 2023 Spring
+  * Introduction to Artificial Intelligence, 2024 Spring and 2025 Spring
+ 
+  
