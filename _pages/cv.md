@@ -28,7 +28,7 @@ Publications
 
 Scholarship
 ======
-* 2024年一流网安奖学金
+* 2024年上海交通大学一流网安奖学金
 
 Patent
 ======
@@ -37,7 +37,7 @@ Patent
   
 Service
 ======
-* Reviewer: IEEE TCSVT, ICASPP, ICME, IJCNN, APSIPA ASC, PRCV
+* Reviewer: IEEE TCSVT, AAAI, ICASPP, ICME, IJCNN, PRCV
 * Teaching Assistant:
   * Introduction to Network Information Security, 2023 Spring
   * Introduction to Artificial Intelligence, 2024 Spring and 2025 Spring
